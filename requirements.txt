@@ -1,0 +1,7 @@
+ultralytics
+sahi
+pandas
+requests
+streamlit
+folium
+streamlit-folium
