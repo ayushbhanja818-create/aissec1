@@ -3,3 +3,5 @@ models/
 __pycache__/
 .DS_Store
 *.pt
+aedes_raw.zip
+.venv/
